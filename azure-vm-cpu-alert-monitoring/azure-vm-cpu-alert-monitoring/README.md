@@ -103,13 +103,6 @@ Capture the following screenshots for your submission (place them in `/screensho
 
 ---
 
-## 🔧 How to upload to GitHub
-1. Create a new repository on GitHub with the same or similar name.
-2. Upload these files and folders (you can upload ZIP and extract locally before pushing).
-3. Replace the placeholder images in `/screenshots/` with your captured screenshots.
-
----
-
 ## ✨ Notes & Tips
 - Adjust the CPU alert threshold to suit your VM size and demonstration needs.
 - If alerts don't fire, ensure VM Insights / Azure Monitor Agent is installed and the Action Group email is verified.
