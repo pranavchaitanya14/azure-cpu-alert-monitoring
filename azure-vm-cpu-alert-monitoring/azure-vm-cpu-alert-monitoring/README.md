@@ -96,13 +96,6 @@ Capture the following screenshots for your submission (place them in `/screensho
 
 ---
 
-## 🗂 Files in this repo
-- `scripts/stress-cpu.sh` — Stress script (Linux)
-- `architecture/architecture.svg` — Architecture diagram (detailed)
-- `screenshots/` — Placeholder images for you to replace with real screenshots
-
----
-
 ## ✨ Notes & Tips
 - Adjust the CPU alert threshold to suit your VM size and demonstration needs.
 - If alerts don't fire, ensure VM Insights / Azure Monitor Agent is installed and the Action Group email is verified.
